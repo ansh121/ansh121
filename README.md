@@ -6,7 +6,7 @@
   <img align="left" alt="Anshuls's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ansh121.ansh121)
 
 <p><em>Fourth-Year Computer Science Undergraduate at <a href="http://www.iitkgp.ac.in/r">Indian institute of Technology Kharagpur</a></p>
 
