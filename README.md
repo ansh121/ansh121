@@ -36,3 +36,7 @@
 <a href="https://github.com/ansh121/Advanced-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh121&repo=Advanced-Calculator&show_icons=true&theme=gotham" alt="Advanced-Calculator" />
 </a>
+<br />
+<br />
+<br />
+<h1 align='center'><i>Stay awesome!</i></h1>
