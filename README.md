@@ -1,16 +1,13 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/AnshulC18400441">
-  <img align="left" alt="Anshul Choudhary | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anshul-iitkgp/">
-  <img align="left" alt="Anshuls's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Anshul Choudhary! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Fourth-Year Computer Science Undergraduate at <a href="http://www.iitkgp.ac.in/r">Indian institute of Technology Kharagpur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ansh121.ansh121)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AnshulC18400441?label=Follow)](https://twitter.com/intent/follow?screen_name=AnshulC18400441)
+[![Linkedin: anshul](https://img.shields.io/badge/-anshul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-iitkgp/)](https://www.linkedin.com/in/anshul-iitkgp/)
+![GitHub followers](https://img.shields.io/github/followers/ansh121?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=ansh121.ansh121)
 
-<p><em>Fourth-Year Computer Science Undergraduate at <a href="http://www.iitkgp.ac.in/r">Indian institute of Technology Kharagpur</a></p>
-
-<br />
 
 📈 My GitHub Stats
 
