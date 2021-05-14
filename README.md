@@ -9,6 +9,26 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ansh121.ansh121)
 
 
-📈 My GitHub Stats
+## 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ansh121&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<a href="https://github.com/ansh121/ansh121">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh121&theme=gotham" alt="Anshul's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ansh121/ansh121">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh121&show_icons=true&theme=gotham" alt="Anshul's GitHub Stats" />
+</a>
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/ansh121/IIT-KGP-Academics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh121&repo=IIT-KGP-Academics&show_icons=true&theme=gotham" alt="IIT-KGP-Academics" />
+</a>
+
+<a href="https://github.com/ansh121/NLP-Search-Engine-COVID-19-Dataset">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh121&repo=NLP-Search-Engine-COVID-19-Dataset&show_icons=true&theme=gotham" alt="NLP-Search-Engine-COVID-19-Dataset" />
+</a>
+
+<a href="https://github.com/ansh121/Book_Bay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh121&repo=Book_Bay&show_icons=true&theme=gotham" alt="Book_Bay" />
+</a>
