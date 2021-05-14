@@ -32,3 +32,7 @@
 <a href="https://github.com/ansh121/Book_Bay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh121&repo=Book_Bay&show_icons=true&theme=gotham" alt="Book_Bay" />
 </a>
+
+<a href="https://github.com/ansh121/Advanced-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh121&repo=Advanced-Calculator&show_icons=true&theme=gotham" alt="Advanced-Calculator" />
+</a>
