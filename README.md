@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Anshul Choudhary! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Fourth-Year Computer Science Undergraduate at <a href="http://www.iitkgp.ac.in/r">Indian institute of Technology Kharagpur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em><img src="https://user-images.githubusercontent.com/43826118/138060352-6d4fd283-7939-4b4d-b632-906d76fe816f.gif" width="25"> Software Engineer at GitHub. <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Computer Science graduate from <a href="http://www.iitkgp.ac.in/r">Indian institute of Technology Kharagpur</a>.
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AnshulC18400441?label=Follow)](https://twitter.com/intent/follow?screen_name=AnshulC18400441)
